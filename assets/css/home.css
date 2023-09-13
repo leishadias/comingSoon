@@ -1,0 +1,14 @@
+#home-container{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#home-container p{
+    color: black;
+    text-align: center;
+    font-size: xxx-large;
+}
+
+#home-container img{
+    height: 25%;
+}
